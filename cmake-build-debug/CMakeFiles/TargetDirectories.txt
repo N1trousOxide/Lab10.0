@@ -1,0 +1,6 @@
+/home/nitrousoxide/Lab10.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nitrousoxide/Lab10.0/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nitrousoxide/Lab10.0/cmake-build-debug/CMakeFiles/tests.dir
+/home/nitrousoxide/Lab10.0/cmake-build-debug/CMakeFiles/template.dir
+/home/nitrousoxide/Lab10.0/cmake-build-debug/CMakeFiles/main.dir
+/home/nitrousoxide/Lab10.0/cmake-build-debug/CMakeFiles/test.dir
